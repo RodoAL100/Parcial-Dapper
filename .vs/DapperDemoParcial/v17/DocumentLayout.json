@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\dapperdemoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|solutionrelative:dapperdemoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\dapperdemoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|solutionrelative:dapperdemoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\dapperdemoparcial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4ED6BD08-C84A-4BC6-A293-65039A8B67C1}|DapperDemoParcial\\DapperDemoParcial.csproj|solutionrelative:dapperdemoparcial\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\accesodatos\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\jesus alvarado\\source\\repos\\dapperdemoparcial\\accesodatos\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDBBC73-A46D-4AF7-BD1E-EE6FB0E79F0A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\packages.config",
+              "RelativeDocumentMoniker": "AccesoDatos\\packages.config",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\packages.config",
+              "RelativeToolTip": "AccesoDatos\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T03:32:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperDemoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\Form1.cs",
+              "RelativeToolTip": "DapperDemoParcial\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:17:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\CustomerRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\CustomerRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwG4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:06:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\Customers.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Customers.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\Customers.cs",
+              "RelativeToolTip": "AccesoDatos\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:02:19.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\App.config",
+              "RelativeDocumentMoniker": "DapperDemoParcial\\App.config",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\App.config",
+              "RelativeToolTip": "DapperDemoParcial\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T02:43:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\DataBase.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\DataBase.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\AccesoDatos\\DataBase.cs",
+              "RelativeToolTip": "AccesoDatos\\DataBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:42:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperDemoParcial\\Form1.cs",
+              "ToolTip": "C:\\Users\\JESUS ALVARADO\\source\\repos\\DapperDemoParcial\\DapperDemoParcial\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DapperDemoParcial\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:38:48.387Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
